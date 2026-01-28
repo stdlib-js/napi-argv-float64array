@@ -43,7 +43,7 @@
     "@stdlib/assert-napi-is-typedarray": "^0.2.2",
     "@stdlib/assert-napi-status-ok": "^0.2.2",
     "@stdlib/napi-argv": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-filled": "^0.2.1",
@@ -81,11 +81,6 @@
     "float64",
     "array"
   ],
-  "__stdlib__": {
-    "envs": {
-      "browser": false
-    }
-  },
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
