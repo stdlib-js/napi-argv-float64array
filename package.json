@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/napi-argv-float64array",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Convert a Node-API value to a double-precision floating-point array.",
   "license": "Apache-2.0",
   "author": {
